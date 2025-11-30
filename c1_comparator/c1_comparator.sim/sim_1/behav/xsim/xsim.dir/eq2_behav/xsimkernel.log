@@ -2,3 +2,6 @@ Running: xsim.dir/eq2_behav/xsimk.exe -simmode gui -wdb eq2_behav.wdb -simrunnum
 Design successfully loaded
 Design Loading Memory Usage: 9028 KB (Peak: 9028 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9596 KB (Peak: 9596 KB)
+Simulation CPU Usage: 15 ms

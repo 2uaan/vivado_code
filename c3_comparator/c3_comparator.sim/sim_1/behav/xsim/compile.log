@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Vivado_projects/c3_comparator/c3_comparator.srcs/sources_1/new/comparator_logic.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_logic
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Vivado_projects/c3_comparator/c3_comparator.srcs/sources_1/new/testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado_projects/c3_comparator/c3_comparator.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
