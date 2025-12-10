@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/Vivado_projects/floating_point_adder/floating_point_adder.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,xil_defaultlib,,,,,,
+D:/Vivado_projects/floating_point_adder/floating_point_adder.srcs/sources_1/new/de_to_13bits.sv,1765343032,systemVerilog,,D:/Vivado_projects/floating_point_adder/floating_point_adder.srcs/sources_1/new/fp_adder_logic.sv,,de_to_13bits,,xil_defaultlib,C:/Xilinx/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado_projects/floating_point_adder/floating_point_adder.srcs/sources_1/new/fp_adder_logic.sv,1765348843,systemVerilog,,D:/Vivado_projects/floating_point_adder/floating_point_adder.srcs/sources_1/new/tb_fp_adder.sv,,fp_adder_logic,,xil_defaultlib,C:/Xilinx/Vivado/2017.4/data/xilinx_vip/include,,,,,
+D:/Vivado_projects/floating_point_adder/floating_point_adder.srcs/sources_1/new/tb_fp_adder.sv,1765348967,systemVerilog,,,,tb_fp_adder,,xil_defaultlib,C:/Xilinx/Vivado/2017.4/data/xilinx_vip/include,,,,,
